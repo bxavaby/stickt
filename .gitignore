@@ -1,0 +1,14 @@
+.env
+
+venv/
+env/
+
+stickers/
+
+.ropeproject/
+*.swp
+*.swo
+
+__pycache__/
+*.pyc
+*.pyo
