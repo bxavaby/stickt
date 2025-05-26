@@ -4,7 +4,7 @@
 
 <h2>Setup & Run</h2>
 
-<pre><code>git clone &lt;[repo-url](https://github.com/bxavaby/stickt)&gt; && cd stickt
+<pre><code>git clone &lt;https://github.com/bxavaby/stickt&gt; && cd stickt
 chmod +x install.sh && ./install.sh
 # Edit .env with your Replicate API token
 source venv/bin/activate && python icky.py</code></pre>
