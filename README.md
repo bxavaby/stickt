@@ -4,7 +4,7 @@
 
 <h2>Setup & Run</h2>
 
-<pre><code>git clone &lt;repo-url&gt; && cd stickt
+<pre><code>git clone &lt;https://github.com/bxavaby/stickt&gt; && cd stickt
 chmod +x install.sh && ./install.sh
 # Edit .env with your Replicate API token
 source venv/bin/activate && python icky.py</code></pre>
@@ -12,7 +12,7 @@ source venv/bin/activate && python icky.py</code></pre>
 <h2>Features</h2>
 
 <ul>
-<li><strong>8 aspect ratios</strong> - Square, portrait, landscape, wide, Instagram formats</li>
+<li><strong>8 aspect ratios</strong> - Square, portrait, landscape, wide, other formats</li>
 <li><strong>WebP/PNG output</strong> - Choose file format</li>
 <li><strong>Interactive prompts</strong> - Clean step-by-step interface</li>
 <li><strong>Auto preview</strong> - Opens generated stickers with xdg-open</li>
