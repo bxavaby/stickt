@@ -4,7 +4,7 @@
 
 <img src="assets/tr.webp" alt="Sticker Preview" width="180" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
 
-<p><strong>Interactive AI sticker generator</strong><br>
+<p><strong>Interactive sticker generator</strong><br>
 <em>Powered by Replicate's fofr/sticker-maker model</em></p>
 
 <a href="https://python.org"><img src="https://img.shields.io/badge/Python-3.8+-3776ab.svg?style=flat&logo=python&logoColor=white"></a>
